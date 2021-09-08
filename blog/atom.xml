@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://monkvision.github.io/monk/blog</id>
+    <title>Monk Blog</title>
+    <updated>2021-09-08T08:49:27.324Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://monkvision.github.io/monk/blog"/>
+    <subtitle>Monk Blog</subtitle>
+    <icon>https://monkvision.github.io/monk/favicon.png</icon>
+    <rights>Copyright © 2021 Monk, Inc.</rights>
+    <entry>
+        <title type="html"><![CDATA[Welcome Docusaurus v2]]></title>
+        <id>welcome-docusaurus</id>
+        <link href="https://monkvision.github.io/monk/blog/welcome-docusaurus"/>
+        <updated>2021-09-08T08:49:27.324Z</updated>
+        <summary type="html"><![CDATA[This is my first post on Docusaurus 2.]]></summary>
+        <author>
+            <name>Natalie Rouvière</name>
+            <uri>https://github.com/natasukiai</uri>
+        </author>
+    </entry>
+</feed>

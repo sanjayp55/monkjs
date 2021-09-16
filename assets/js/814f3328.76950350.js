@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmonk_website=self.webpackChunkmonk_website||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"All Blog Posts","items":[{"title":"Welcome Docusaurus v2","permalink":"/monkjs/blog/welcome-docusaurus"}]}')}}]);

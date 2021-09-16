@@ -2,17 +2,17 @@
 <rss version="2.0">
     <channel>
         <title>Monk Blog</title>
-        <link>https://monkvision.github.io/monk/blog</link>
+        <link>https://monkvision.github.io/monkjs/blog</link>
         <description>Monk Blog</description>
-        <lastBuildDate>Wed, 08 Sep 2021 08:49:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 16:07:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2021 Monk, Inc.</copyright>
         <item>
             <title><![CDATA[Welcome Docusaurus v2]]></title>
-            <link>https://monkvision.github.io/monk/blog/welcome-docusaurus</link>
+            <link>https://monkvision.github.io/monkjs/blog/welcome-docusaurus</link>
             <guid>welcome-docusaurus</guid>
-            <pubDate>Wed, 08 Sep 2021 08:49:27 GMT</pubDate>
+            <pubDate>Thu, 16 Sep 2021 16:07:35 GMT</pubDate>
             <description><![CDATA[This is my first post on Docusaurus 2.]]></description>
         </item>
     </channel>

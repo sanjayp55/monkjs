@@ -4,7 +4,7 @@
         <title>Monk Blog</title>
         <link>https://monkvision.github.io/monkjs/blog</link>
         <description>Monk Blog</description>
-        <lastBuildDate>Sun, 19 Sep 2021 23:08:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Sep 2021 22:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2021 Monk, Inc.</copyright>
@@ -12,7 +12,7 @@
             <title><![CDATA[Welcome Docusaurus v2]]></title>
             <link>https://monkvision.github.io/monkjs/blog/welcome-docusaurus</link>
             <guid>welcome-docusaurus</guid>
-            <pubDate>Sun, 19 Sep 2021 23:08:31 GMT</pubDate>
+            <pubDate>Sun, 26 Sep 2021 22:14:54 GMT</pubDate>
             <description><![CDATA[This is my first post on Docusaurus 2.]]></description>
         </item>
     </channel>

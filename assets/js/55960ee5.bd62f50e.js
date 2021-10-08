@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmonk_website=self.webpackChunkmonk_website||[]).push([[121],{88070:e=>{e.exports=[]}}]);

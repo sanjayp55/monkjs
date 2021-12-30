@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmonk_website=self.webpackChunkmonk_website||[]).push([[881],{58521:e=>{e.exports=JSON.parse('{"permalink":"/monkjs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

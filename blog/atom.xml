@@ -7,7 +7,7 @@
     <link rel="alternate" href="https://monkvision.github.io/monkjs/blog"/>
     <subtitle>Monk Blog</subtitle>
     <icon>https://monkvision.github.io/monkjs/favicon.png</icon>
-    <rights>Copyright © 2021 Monk, Inc.</rights>
+    <rights>Copyright © 2022 Monk, Inc.</rights>
     <entry>
         <title type="html"><![CDATA[Welcome to Monk]]></title>
         <id>welcome-docusaurus</id>

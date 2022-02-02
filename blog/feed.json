@@ -1,0 +1,21 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Monk Blog",
+    "home_page_url": "https://monkvision.github.io/monkjs/blog",
+    "description": "Monk Blog",
+    "items": [
+        {
+            "id": "welcome-docusaurus",
+            "content_html": "<p>Here to see everything is working fine and nothing is on fire.\nIt seems ok. Also thanks for reading this, I feel useful for one time (joking) :-)</p>",
+            "url": "https://monkvision.github.io/monkjs/blog/welcome-docusaurus",
+            "title": "Welcome to Monk",
+            "summary": "This is my first post.",
+            "date_modified": "2021-10-05T00:00:00.000Z",
+            "author": {
+                "name": "Natalie Rouvière",
+                "url": "https://github.com/natasukiai"
+            },
+            "tags": []
+        }
+    ]
+}
